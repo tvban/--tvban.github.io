@@ -1,6 +1,6 @@
 name="Buffer Kodi 18"
 section="yes"
-url="https://tvban.github.io/txt/Buffer-leia.txt"
+url="https://raw.githubusercontent.com/tvban/tvban.github.io/master/wizard/xml/Advanced.txt"
 icon="https://i.imgur.com/78LMRnT.png" 
 fanart="https://i.imgur.com/jtTx5ME.jpg"
-description="Kodi 18 Leia"
+description="Kodi 18 Leiav"
