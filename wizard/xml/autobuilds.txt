@@ -13,7 +13,7 @@ description="Base Aura con peliculas, series, television y deportes"
 
 name="PARCHE cambio AURA"
 version="2020.07.12"
-url="https://github.com/tvban/tvban.github.io/releases/download/2020.07.12/stva-aura.zip"
+url="https://github.com/tvban/tvban.github.io/releases/download/2020.07.12/parche-aura.zip"
 gui=""
 kodi="16"
 theme="http://"
