@@ -1,6 +1,6 @@
 name="BASE AURA"
 version="2020.07.11"
-url="https://github.com/tvban/tvban.github.io/releases/download/2020.07.11/stva-aura.zip"
+url="https://github.com/tvban/tvban.github.io/releases/download/2.1.1/GTKing.Prime.zip"
 gui=""
 kodi="18"
 theme="http://"
