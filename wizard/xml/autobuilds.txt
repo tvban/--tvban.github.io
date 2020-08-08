@@ -17,7 +17,7 @@ description="Build Aura TVBAN con muchos contenidos"
 
 
 name="PARCHE Para AURA-TVBAN"
-version="1.1"
+version="8.8"
 url=""
 gui=""
 kodi="16"
