@@ -2,7 +2,7 @@ id="plugin.program.tvban.zip"
 version="5.8.0"
 zip="https://tvban.github.io/addons.de.programa/plugin.program.tvban.zip"
 
-name="BUILD AURA TVBAN"
+name="BUILD AURA-TVBAN"
 version="8.0"
 url="https://bit.ly/3gHhUno"
 gui=""
@@ -16,7 +16,7 @@ info="http://"
 description="Build Aura TVBAN con muchos contenidos"
 
 
-name="PARCHE Para AURA TVBAN"
+name="PARCHE Para AURA-TVBAN"
 version="1.1"
 url=""
 gui=""
