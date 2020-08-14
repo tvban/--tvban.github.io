@@ -13,7 +13,7 @@ fanart="https://tvban.github.io/wizard/imagenes/ftvban.jpg"
 preview=""
 adult="No"
 info="http://"
-description="[COLOR dodgerblue]TVBAN[/COLOR] ha sido creado por [COLOR limegreen]JOSE ANDRES.[/COLOR]"
+description="TVBAN ha sido creado por JOSE ANDRES"
 
 
 name="PARCHE AURA-TVBAN"
