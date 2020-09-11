@@ -1,14 +1,25 @@
 1
 |||
-[COLOR lime][B]0/0/0 - PARCHE Cambios TVBAN Prime v2.8.0[/B][/COLOR]
+[COLOR gold]11/09/2020 Nueva base TVBAN v8.0 y Parche 8.5[/COLOR]
+
+- Cambiado al idioma español en el ajuste en el addon TheMoviedb Helper
+- Fix error en menú de reproducción de la sección destacados.
+- Redirigida la url de la lista de PVR.
+- Añadidos los addons TV-Chopo y Tacones.
+- Eliminado el addon RobTV y TVone11 (por estar caída su lista para Spain TV).... R.I.P
+- Al eliminar RobTV se cambia por otra lista de TV-Chopo.
+- Añadido nuevo atajo Canales Mundo-Deporte con csnsles internacionales en la sección deportes.
+- Cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
+
+
+[COLOR lime][B]11/09/20200 - PARCHE Cambios TVBAN Prime v8.5[/B][/COLOR]
 [COLOR white]– Cambiado widget de Películas de MediaExplorer.
 – Cambiados enlaces Destacados de Televisión, ahora son Addons de Hiraya. Dplay, A3player, Mitele, rtve alacarta...
 – Agregadas categorías en Televisión 
 – Cambiados algunos ajustes del Skin. [B]Mejora el rendimiento y la fluidez en dispositivos poco potentes[/B]. Se recomienda ir a Ajustes y pulsar el botón Destacados On/Off en los dispositivos poco potentes.
 
 Además de esos cambios, el skin también se ha actualizado a la versión 1.8.20, donde se ha incluido un botón en Ajustes para desactivar los widgets Destacados. Estos consumen muchos recursos en dispositivos poco potentes.
-Además se ha arreglado la ventana de información al pulsar en un Destacado o al hacer pulsación larga sobre una película o serie. Ahora muestra mejor la información, los tr
-áilers funcionan y en Reparto & Más se muestran las imágenes correctamente.[/COLOR]
+Además se ha arreglado la ventana de información al pulsar en un Destacado o al hacer pulsación larga sobre una película o serie. Ahora muestra mejor la información, los tráilers funcionan y en Reparto & Más se muestran las imágenes correctamente.[/COLOR]
 
 
 [COLOR limegreen][B]SI TIENES DUDAS, EN EL CANAL TELEGRAM TIENES TODO LO NECESARIO: t.me/beelinkgtking[/B][/COLOR]
