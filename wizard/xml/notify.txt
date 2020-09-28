@@ -12,7 +12,7 @@
 - Cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
 
 
-[COLOR lime][B]11/09/20200 - PARCHE Cambios TVBAN Prime v8.5[/B][/COLOR]
+[COLOR lime][B]11/09/2020 - PARCHE Cambios TVBAN Prime v8.5[/B][/COLOR]
 [COLOR white]– Cambiado widget de Películas de MediaExplorer.
 – Cambiados enlaces Destacados de Televisión, ahora son Addons de Hiraya. Dplay, A3player, Mitele, rtve alacarta...
 – Agregadas categorías en Televisión 
@@ -25,9 +25,14 @@ Además se ha arreglado la ventana de información al pulsar en un Destacado o a
 
 [COLOR limegreen][B]28/09/2020 - PARCHE Cambios TVBAN Prime v2020.09.28[/B][/COLOR]
 
+<<<<<<< HEAD
 - Cambiado el modo fecha.
 - Cambiado el modo de ver la fecha y hora.
 
+=======
+- Cambiado la versión en fecha
+- Cambiado el modo de ver la fecha y hora.
+>>>>>>> b785d433f5cec1f6e46ea88031d245d87eebf4a1
 
 [COLOR limegreen][B]SI TIENES DUDAS, EN EL CANAL TELEGRAM TIENES TODO LO NECESARIO: t.me/beelinkgtking[/B][/COLOR]
 - bit.ly/consejos-tvban
