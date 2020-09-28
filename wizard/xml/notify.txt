@@ -23,7 +23,7 @@ Además se ha arreglado la ventana de información al pulsar en un Destacado o a
 
 ===============================================================================================================================================
 
-[COLOR limegreen][B]28/09/2020 - PARCHE Cambios TVBAN Prime v2020.09.28[/B][/COLOR]
+[COLOR limegreen][B]28/09/2020 - PARCHE Cambios TVBAN v2020.09.28[/B][/COLOR]
 
 - Cambiado el modo fecha.
 - Cambiado el modo de ver la fecha y hora.
