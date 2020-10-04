@@ -15,6 +15,7 @@
 [COLOR limegreen][B]04/10/2020 - PARCHE Cambios TVBAN v2020.10.04[/B][/COLOR]
 
 - Cambiado widget en series
+- Nueva lista en pvr
 
 [COLOR limegreen][B]28/09/2020 - PARCHE Cambios TVBAN v2020.09.28[/B][/COLOR]
 
