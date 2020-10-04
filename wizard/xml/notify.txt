@@ -24,7 +24,6 @@ Además de esos cambios, el skin también se ha actualizado a la versión 1.8.20
 Además se ha arreglado la ventana de información al pulsar en un Destacado o al hacer pulsación larga sobre una película o serie. Ahora muestra mejor la información, los tráilers funcionan y en Reparto & Más se muestran las imágenes correctamente.[/COLOR]
 
 
-
 [COLOR limegreen][B]SI TIENES DUDAS, EN EL CANAL TELEGRAM TIENES TODO LO NECESARIO: t.me/beelinkgtking[/B][/COLOR]
 - bit.ly/consejos-tvban
 - bit.ly/parches-tvban
