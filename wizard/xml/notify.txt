@@ -2,28 +2,19 @@
 |||
 [COLOR gold]11/09/2020 Nueva base TVBAN v8.0 y Parche 8.5[/COLOR]
 
-- Cambiado al idioma español en el ajuste en el addon TheMoviedb Helper
-- Fix error en menú de reproducción de la sección destacados.
-- Redirigida la url de la lista de PVR.
-- Añadidos los addons TV-Chopo y Tacones.
-- Eliminado el addon RobTV y TVone11 (por estar caída su lista para Spain TV).... R.I.P
-- Al eliminar RobTV se cambia por otra lista de TV-Chopo.
-- Añadido nuevo atajo Canales Mundo-Deporte con csnsles internacionales en la sección deportes.
-- Cambios en atajos en la sección cine 4K Palantir por 4K Tacones (mientras no se arregle) y Supercine Cristal.[/COLOR]
-
 ===============================================================================================================================================
-[COLOR limegreen][B]04/10/2020 - PARCHE Cambios TVBAN v2020.10.04[/B][/COLOR]
+[COLOR limegreen][B]04/10/2020 - Cambios TVBAN v2020.10.04[/B][/COLOR]
 
 - Cambiado widget en series
 - Nueva lista en pvr
 
-[COLOR limegreen][B]28/09/2020 - PARCHE Cambios TVBAN v2020.09.28[/B][/COLOR]
+[COLOR limegreen][B]28/09/2020 - Cambios TVBAN v2020.09.28[/B][/COLOR]
 
 - Cambiado el modo fecha.
 - Cambiado el modo de ver la fecha y hora.
 
 
-[COLOR lime][B]11/09/2020 - PARCHE Cambios TVBAN Prime v8.5[/B][/COLOR]
+[COLOR lime][B]11/09/2020 - Cambios TVBAN Prime v8.5[/B][/COLOR]
 [COLOR white]– Cambiado widget de Películas de MediaExplorer.
 – Cambiados enlaces Destacados de Televisión, ahora son Addons de Hiraya. Dplay, A3player, Mitele, rtve alacarta...
 – Agregadas categorías en Televisión 
