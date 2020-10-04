@@ -1,5 +1,5 @@
 id="plugin.program.tvban.zip"
-version="5.8.0"
+version="5.8.9"
 zip="https://tvban.github.io/addons.de.programa/plugin.program.tvban.zip"
 
 name="BUILD AURA-TVBAN"
@@ -17,8 +17,8 @@ description="[COLOR dodgerblue]TVBAN[/COLOR] ha sido creado por [B]JOSE ANDRES[/
 
 
 name="PARCHE AURA-TVBAN"
-version="2020.09.28"
-url="https://bit.ly/338bauk"
+version="2020.10.04"
+url="https://bit.ly/3niY8lJ"
 gui=""
 kodi="16"
 theme="http://"
