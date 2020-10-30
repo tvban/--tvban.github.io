@@ -3,6 +3,13 @@
 [COLOR gold] Nueva BUILD TVBAN [/COLOR]
 
 ===============================================================================================================================================
+[COLOR limegreen][B]30/10/2020 - Cambios TVBAN v2020.10.30[/B][/COLOR]
+
+- Cambiado iconos en peliculas y series
+- Nuevo addons Palantir 2
+- Atajo en series a Panlantir 2
+
+
 [COLOR limegreen][B]04/10/2020 - Cambios TVBAN v2020.10.04[/B][/COLOR]
 
 - Cambiado widget en series
