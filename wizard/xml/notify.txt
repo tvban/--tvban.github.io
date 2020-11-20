@@ -3,6 +3,15 @@
 [COLOR gold] Nueva BUILD TVBAN [/COLOR]
 
 ===============================================================================================================================================
+[COLOR limegreen][B]20/11/2020 - Cambios TVBAN v2020.11.20[/B][/COLOR]
+
+- Editado menu de ajustes. Configurar Estilo.
+- Cambiado icono en Ajustes Cristal Azul, añadido icono Luar con atajo.
+- Cambiado icono Cristal Azul en Addon
+- Añadido nuevo icono para 4k y atajo.
+- Atajos en Peliculas. 
+
+
 [COLOR limegreen][B]30/10/2020 - Cambios TVBAN v2020.10.30[/B][/COLOR]
 
 - Cambiado iconos en peliculas y series
