@@ -2,18 +2,6 @@ id="plugin.program.tvban.zip"
 version="5.9.0"
 zip="https://github.com/tvban/tvban.github.io/blob/master/addons.de.programa/plugin.program.tvban-5.9.0.zip"
 
-name="KODI FULL"
-version="1.0"
-url="https://bit.ly/2IFGtoY"
-gui=""
-kodi="18"
-theme="http://"
-icon="https://tvban.github.io/wizard/imagenes/icontvban.png"
-fanart="https://tvban.github.io/wizard/imagenes/ftvban.jpg"
-preview=""
-adult="No"
-info="http://"
-description="[COLOR dodgerblue]TVBAN[/COLOR] ha sido creado por [B]JOSE ANDRES[/B]"
 
 name="BUILD AURA-TVBAN"
 version="8.0"
@@ -30,7 +18,7 @@ description="[COLOR dodgerblue]TVBAN[/COLOR] ha sido creado por [B]JOSE ANDRES[/
 
 
 name="PARCHE AURA-TVBAN"
-version="2020.10.30"
+version="2020.11.20"
 url="https://bit.ly/34JQDxb"
 gui=""
 kodi="16"
