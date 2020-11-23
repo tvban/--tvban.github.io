@@ -32,7 +32,7 @@ description="[COLOR dodgerblue]TVBAN[/COLOR] ha sido creado por [B]JOSE ANDRES[/
 
 name="Elementum All-One"
 version="0.1.62"
-url="https://bit.ly/3mYp1dV"
+url="https://bit.ly/39aDwYc"
 gui=""
 kodi="15"
 theme="http://"
