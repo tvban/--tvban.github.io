@@ -1,4 +1,3 @@
-# Fuente:
-# https://tvban.github.io/tvban
+# tvban.github.io/tvban
 
 
