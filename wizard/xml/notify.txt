@@ -2,7 +2,7 @@
 |||
 [COLOR gold][B]Nueva BUILD TVBAN[/B][/COLOR]
 
-[COLOR limegreen][B]27/12/2020 - Cambios TVBAN v2020.12.27[/B][/COLOR]
+[COLOR limegreen][B]28/12/2020 - Cambios TVBAN v2020.12.28[/B][/COLOR]
 
 - Nuevos atajos Peliculas y Series.
 - Añadido Pluto TV en sección de Televisión.
