@@ -18,8 +18,8 @@ description="[COLOR dodgerblue]TVBAN[/COLOR] ha sido creado por [B]JOSE ANDRES[/
 
 
 name="PARCHE AURA-TVBAN"
-version="2020.12.28"
-url="https://bit.ly/3pmlffB"
+version="2021.02.19"
+url="https://bit.ly/3bmNnd1"
 gui=""
 kodi="16"
 theme="http://"

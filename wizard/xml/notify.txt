@@ -2,6 +2,15 @@
 |||
 [COLOR gold][B]Nueva BUILD TVBAN[/B][/COLOR]
 
+[COLOR dodgerblue][B]19/02/2021 - Cambios TVBAN v2021.02.19[/B][/COLOR]
+
+- Redirigidos atajos Listas Chikiry y Magellan. 
+- Redirigidos atajos en películas y series.
+- Redirigidos atajos de buscadores de Cristal.
+- Cambiado atajo de series AMC por The CW.
+- Añadido botón actualizar videoteca de kodi + Fondo.
+- Añadido addon Winner Sports + Fondo e icono.
+
 [COLOR limegreen][B]28/12/2020 - Cambios TVBAN v2020.12.28[/B][/COLOR]
 
 - Nuevos atajos Peliculas y Series.
